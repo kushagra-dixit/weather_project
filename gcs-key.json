@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "city-weather-351602",
+  "private_key_id": "27c954603aa80c4c54661c6d27ea1e38f9a5ff69",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCssH29e4epV39T\nW5sRciugZQ1WmSQ2nGNJ49OO957fKi0O5qemhF/s8jy5b1x71r3n8h9aX0sOHQ96\n66k1wj3qSNd+/ZDpFOAj1lCqGtxeiq5JucCZ23w7oUPCsC6InX+HjVtbqidIv7Jd\nA5M3i+e7YDLVj/lQMEF/JqjzPSNbHX7I5JVFvyhjdkJdHl/qeC/+SgWoUqHI2WNn\nr/NKUG75v5dKy4qCzDVRknANCncamUq/3IKiyknA2BNj5JFFEeCGMoAyh5RA3Kfx\nYVScNGQ0ivegU5sOG31cpRYnAqi0/HOU3X0pC1IZQMryCNnu89hacmtd3Qzq/6eg\n0vywD+8xAgMBAAECggEAHNm7mB18M7F3hzClvotpeHmJee9J2onUGLMkVB1QgI4m\nSvgECFDTSd3KgVx2ggYFYivUSx/ihTAbtviKI34ZI/wZbJDmVdpz++jBPzoPmQfo\nSE7tO4cswTWXAX63t4FAnh/ipHTP7VqBbQK85KnOBEL1GzLbfycguiJ2VXTgZEdJ\n440IqARo3yyArodhnS0EuvMVzrbX6yUt0cm7JXCtqvNh0Qry/cSz4YJI4Ls+mMLM\n0c7w8eXSQg0aPFqnCcoNRgtE5OdMojvcsy8SBoxrCKM4cJ+EWTifMahjr41/wsIa\nuf4v6Crv9rbhMOvzp5dH7qjLGc7mXBXFuLXWMJhtMQKBgQDcQM5pengcUv3AkBaZ\nny7Lz7M+lnMxMhf/NUctXUbgkFg7jmEQijMDfruh0AwyFRGarSqkj2vwjGJQ34QX\nG+9hMNxn6awEwfLyph3c6F8cJtBhzG/ADecrjVNTvZ33bdSc4tYvRFJ8uXqe0Pp6\ngVfjJ4kg613+wKUOV+cvE5+E1QKBgQDIt3tiFXbdN+HvmRN2OVyo2mXYui2ohE4x\ngeRqAr024abX8zQRWN2dsv14DhZ8G3+/fYddyYNVcYvlIkWyVdBhoxbZsHR154It\nlr5CqNtkyakSLBWua0pnsCOA5iySCOUS/jrKt42lPZI4wnPnTn2M06+1bNyHd5Qk\n7darQQ0e7QKBgFRT67Ou1DXkAIutnzmKHNyj1TjtWYVIbK+lsm7H+88W9PE4filb\nAFUiPKyjf0fdkTPrgRwoXWdoGGxmZ6iBZZGMp5aRfO8FYwNMXrqprWCV68rF/zNF\nH3EpVvIE82o8ft7iaqcGPZ7LVQthb8VfqEqsZHBaLU7Qa2GmfjkkBjtRAoGBAMNZ\nEFSd31nekZ7HtRFTMsOEC6urR9TDL/cvHEew8sb/R4rVwM9BVi+tjNPToj6X5PVS\nDvVQsunt4OHZQUwYCP994zdrbW1zLFeCZxopjZ3CRzLQhSmEcp4H6AYD/00CKzEZ\nDc9OZiV0j2N+nZ953Oe6/z/r+5Y844otkMiMP2DhAoGAcRORWRfTvwXSbPeY3mD4\nUyROntzkNRkMsNEyjqXRaIxoe5qMl82FWZgJ6S9dLfQWain1HDRndNLMxh7+zrb9\nvJhKFrUmqmDIzPGGuTTGESmjXAzWDEmhe59+LIUOex+qfvq47pfVX8I/f+igxDn7\nbERCPPNDWQ70HYXnx0yafb8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bucket-pubsub-run@city-weather-351602.iam.gserviceaccount.com",
+  "client_id": "107485887938221794969",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bucket-pubsub-run%40city-weather-351602.iam.gserviceaccount.com"
+}

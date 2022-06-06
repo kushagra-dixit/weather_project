@@ -1,0 +1,42 @@
+openapi: "3.0.0"
+info:
+  version: 1.0.0
+  title: project
+  license:
+    name: MIT
+servers:
+  - url: http://localhost:9999/
+paths:
+  /:
+    get:
+      summary: Displays Documentation
+      responses:
+        "200":
+          description: OK
+      tags:
+        - Documentation
+
+  /apispec:
+    get:
+      summary: Displays unformatted documentation
+      responses:
+        "200":
+          description: OK
+      tags:
+        - Documentation
+  /healthz/live:
+    get:
+      summary: Check whether the service is up and running
+      responses:
+        "200":
+          description: OK
+      tags:
+        - Healthchecks
+  /healthz/ready:
+    get:
+      summary: Check whether the service is ready to receive requests
+      responses:
+        "200":
+          description: OK
+      tags:
+        - Healthchecks
