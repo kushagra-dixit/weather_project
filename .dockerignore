@@ -1,0 +1,14 @@
+**/*.DS_Store
+.git*
+.vscode/
+scripts
+**/*.pickle
+**/*.bin
+**/*.ipynb
+**/*.sh
+*.egg*
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+*coverage*
+htmlcov/

@@ -1,0 +1,1 @@
+exclude_dirs: ["/debug.py", "./scripts/*", "**/*_test.py"]

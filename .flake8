@@ -1,0 +1,16 @@
+[flake8]
+max-line-length = 88
+max-complexity = 12
+ignore = E203, E501, W503
+select = C,E,F,W,B
+exclude =
+    .git*,
+    build,
+    dist,
+    releases,
+    setup.py,
+    __pycache__, 
+    .pytest_cache,
+    .vscode,
+    .venv,
+    .tox
